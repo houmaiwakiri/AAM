@@ -9,8 +9,12 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "destination": "C:/Users/user/OneDrive/ドキュメント/制作物/aam/aam/myapp/build/index.html"
       }
     ]
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
   }
 }

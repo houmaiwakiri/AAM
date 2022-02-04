@@ -1,3 +1,6 @@
+#root{
+  margin: 5px 20px;
+}
 body{
   background-color: #0d501b;
 }
@@ -19,7 +22,7 @@ span{
 .post_design{
   max-width: 500px;
   padding: 10px;
-  margin: 2em 0;
+  margin: 5px 20px;
   background: #95d0ee;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22)
 }
